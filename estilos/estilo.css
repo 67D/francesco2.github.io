@@ -1,0 +1,87 @@
+html {
+	background-color: black;
+	font-size: 10px; 
+	font-family: "Roboto", sans-serif; 
+}
+
+ 
+h1 {
+	background-color: white;
+	font-size: 36px;
+	text-align: center;
+	margin: 0px;
+	padding: 20px 0;
+	color: #00000F;
+	text-shadow: 3px 3px 10px azure;
+}
+
+ol {
+	font-size: 10px;
+  	background: azure;
+	width: 600px;
+ 	padding: 10px;
+  	border: 1px solid black;
+}
+
+p {
+	background-color: magenta;
+	width: 600px;
+ 	font-size: 18px;
+	line-height: 2;
+	letter-spacing: 1px;
+}	
+
+body {
+	width: 1080px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	background-image: url("flor.png");
+	background-color: #00000F;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+li {
+	font-size: 14px;
+	line-height: 2;
+	letter-spacing: 1px;
+
+}
+
+
+.icon {
+	width: 40px;
+	height: 42px;
+	display: inline-block;
+	margin: 0 auto;
+	padding: 20px 20px 10px 5px;
+}
+ button{float: right;}
+
+.bucle {
+	background-color: lime;
+	display: inline_block;
+	margin: 0 50px;
+	font-size: 32px;
+	border: 3px solid black;
+	padding: 5px 5px 5px 5px;
+	letter-spacing: 3px;	
+	
+}
+
+.dibu {
+	background-color: chocolate;
+	display: inline_block;
+	margin: 0 auto;
+	font-size: 32px;
+	border: 3px solid black;
+	padding: 5px 5px 5px 5px;
+	letter-spacing: 3px;	
+	
+}
+	
+	
+	
